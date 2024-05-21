@@ -1,7 +1,7 @@
 [
     {
         "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-        "file_last_write": 1716299920.0,
+        "file_last_write": 1716304968.0,
         "definitions": [
             {
                 "usr": "c:AnnoyVQRecall.hpp@T@ANNOYTYPE",
@@ -9,7 +9,7 @@
                 "parent_name": "",
                 "name": "ANNOYTYPE",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 16,
+                "line": 17,
                 "column": 16,
                 "hidden": false
             },
@@ -19,7 +19,7 @@
                 "parent_name": "",
                 "name": "MyAnnoyIndex",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 17,
+                "line": 18,
                 "column": 99,
                 "hidden": false
             },
@@ -29,7 +29,7 @@
                 "parent_name": "",
                 "name": "cpp_QE2Activation(const arma::mat &)",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 25,
+                "line": 26,
                 "column": 18,
                 "hidden": false
             },
@@ -39,7 +39,7 @@
                 "parent_name": "",
                 "name": "AnnoyBMU_prlwkr",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 56,
+                "line": 57,
                 "column": 8,
                 "hidden": false
             },
@@ -49,7 +49,7 @@
                 "parent_name": "AnnoyBMU_prlwkr",
                 "name": "build_AnnoyObj",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 96,
+                "line": 97,
                 "column": 8,
                 "hidden": false
             },
@@ -59,7 +59,7 @@
                 "parent_name": "AnnoyBMU_prlwkr",
                 "name": "find_BMU_of_Xi(unsigned int)",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 106,
+                "line": 107,
                 "column": 8,
                 "hidden": false
             },
@@ -69,7 +69,7 @@
                 "parent_name": "AnnoyBMU_prlwkr",
                 "name": "operator(std::size_t, std::size_t)",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 133,
+                "line": 134,
                 "column": 8,
                 "hidden": false
             },
@@ -79,7 +79,7 @@
                 "parent_name": "AnnoyBMU_prlwkr",
                 "name": "calc_parallel",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 140,
+                "line": 141,
                 "column": 8,
                 "hidden": false
             },
@@ -89,7 +89,7 @@
                 "parent_name": "AnnoyBMU_prlwkr",
                 "name": "calc_serial",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 144,
+                "line": 145,
                 "column": 8,
                 "hidden": false
             },
@@ -99,7 +99,7 @@
                 "parent_name": "",
                 "name": "cpp_findBMU(arma::umat &, arma::mat &, arma::mat &, const arma::mat &, const arma::mat &, unsigned int, bool, unsigned int, std::string)",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 153,
+                "line": 154,
                 "column": 13,
                 "hidden": false
             },
@@ -109,7 +109,7 @@
                 "parent_name": "",
                 "name": "VQRecall_worker",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 172,
+                "line": 173,
                 "column": 8,
                 "hidden": false
             },
@@ -119,7 +119,7 @@
                 "parent_name": "VQRecall_worker",
                 "name": "process_single_prototype(unsigned int)",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 221,
+                "line": 222,
                 "column": 8,
                 "hidden": false
             },
@@ -129,7 +129,7 @@
                 "parent_name": "VQRecall_worker",
                 "name": "operator(std::size_t, std::size_t)",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 277,
+                "line": 278,
                 "column": 8,
                 "hidden": false
             },
@@ -139,7 +139,7 @@
                 "parent_name": "VQRecall_worker",
                 "name": "calc_parallel",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 284,
+                "line": 285,
                 "column": 8,
                 "hidden": false
             },
@@ -149,7 +149,7 @@
                 "parent_name": "VQRecall_worker",
                 "name": "calc_serial",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 291,
+                "line": 292,
                 "column": 8,
                 "hidden": false
             },
@@ -159,7 +159,7 @@
                 "parent_name": "VQRecall_worker",
                 "name": "calc_global_measures",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 301,
+                "line": 302,
                 "column": 8,
                 "hidden": false
             },
@@ -169,7 +169,7 @@
                 "parent_name": "VQRecall_worker",
                 "name": "clear",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 316,
+                "line": 317,
                 "column": 8,
                 "hidden": false
             },
@@ -179,7 +179,7 @@
                 "parent_name": "",
                 "name": "cpp_Recall(int &, arma::uvec &, arma::vec &, arma::vec &, arma::vec &, double &, arma::sp_mat &, arma::sp_mat &, arma::sp_mat &, unsigned int, const arma::umat &, const arma::mat &, const arma::mat &, bool)",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 334,
+                "line": 335,
                 "column": 13,
                 "hidden": false
             },
@@ -189,7 +189,7 @@
                 "parent_name": "",
                 "name": "VQRecallLabels_worker",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 365,
+                "line": 366,
                 "column": 8,
                 "hidden": false
             },
@@ -199,7 +199,7 @@
                 "parent_name": "VQRecallLabels_worker",
                 "name": "contribution_from_label_i(unsigned int)",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 418,
+                "line": 419,
                 "column": 8,
                 "hidden": false
             },
@@ -209,7 +209,7 @@
                 "parent_name": "VQRecallLabels_worker",
                 "name": "join(const VQRecallLabels_worker &)",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 432,
+                "line": 433,
                 "column": 8,
                 "hidden": false
             },
@@ -219,7 +219,7 @@
                 "parent_name": "VQRecallLabels_worker",
                 "name": "operator(std::size_t, std::size_t)",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 437,
+                "line": 438,
                 "column": 8,
                 "hidden": false
             },
@@ -229,7 +229,7 @@
                 "parent_name": "VQRecallLabels_worker",
                 "name": "find_winning_label",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 444,
+                "line": 445,
                 "column": 8,
                 "hidden": false
             },
@@ -239,7 +239,7 @@
                 "parent_name": "VQRecallLabels_worker",
                 "name": "calc_parallel",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 463,
+                "line": 464,
                 "column": 8,
                 "hidden": false
             },
@@ -249,7 +249,7 @@
                 "parent_name": "VQRecallLabels_worker",
                 "name": "calc_serial",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 469,
+                "line": 470,
                 "column": 8,
                 "hidden": false
             },
@@ -259,7 +259,7 @@
                 "parent_name": "",
                 "name": "cpp_RecallLabels(arma::uvec &, arma::mat &, arma::vec &, const arma::uvec &, const int &, const arma::umat &, const arma::mat &, bool)",
                 "file": "/Users/jtaylor/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
-                "line": 479,
+                "line": 480,
                 "column": 13,
                 "hidden": false
             }

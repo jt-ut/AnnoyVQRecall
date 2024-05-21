@@ -13,6 +13,7 @@
 #include "string.h"
 
 #include "RcppAnnoy.h"
+using namespace Annoy;
 typedef double ANNOYTYPE;
 typedef AnnoyIndex <int, ANNOYTYPE, Euclidean, Kiss64Random, AnnoyIndexSingleThreadedBuildPolicy> MyAnnoyIndex;
 
