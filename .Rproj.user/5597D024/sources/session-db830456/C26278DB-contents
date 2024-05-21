@@ -1,0 +1,17 @@
+X = as.matrix(iris[,1:4])
+Y = as.integer(iris[,5])
+W = kmeans(x=X, centers=10)$centers
+
+tmp = Recall(X=X, W=W, XL = Y, nBMU = 2, QuantType = "soft", parallel = T)
+
+
+bmu = findBMU(X=X, W=W)
+rec = VQRecall(X=X, W=W)
+rec = VQRecall(nW = nrow(W), BMU = bmu$BMU, QE = bmu$QE, ACT = bmu$ACT)
+
+crap = bmu$BMU - 1
+tmp = AnnoyVQRecall:::.Recall_BMU(nW = nrow(W), BMU = crap, QE = bmu$QE, ACT = bmu$ACT)
+
+
+tmp1 = AnnoyVQRecall:::.find_BMU(X=X, W=W, QuantType = "soft")
+tmp2 = AnnoyVQRecall:::.Recall_BMU(nW = nrow(W), BMU = tmp1$BMU, QE = tmp1$QE, ACT = tmp1$ACT)

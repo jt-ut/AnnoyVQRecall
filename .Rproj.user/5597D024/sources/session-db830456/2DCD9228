@@ -1,0 +1,26 @@
+{
+    "id": "2DCD9228",
+    "path": "~/Dropbox/Software/JT_R_Pkgs/AnnoyVQRecall/inst/include/AnnoyVQRecall.hpp",
+    "project_path": "inst/include/AnnoyVQRecall.hpp",
+    "type": "hpp",
+    "hash": "1433184195",
+    "contents": "",
+    "dirty": false,
+    "created": 1716212246622.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "266,70",
+        "scrollLine": "245"
+    },
+    "folds": "24|57|51|0|\n154|111|165|0|\n338|46|360|0|\n",
+    "lastKnownWriteTime": 1716299920,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1716300171455,
+    "read_only": false,
+    "read_only_alternatives": []
+}

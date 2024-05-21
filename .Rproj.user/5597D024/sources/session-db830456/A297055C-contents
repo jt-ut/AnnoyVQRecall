@@ -1,0 +1,11 @@
+#ifndef RcppArmadillo_H
+#include <RcppArmadillo.h>
+// [[Rcpp::depends(RcppArmadillo)]]
+#endif
+
+#ifndef RcppParallel_H
+#include <RcppParallel.h>
+// [[Rcpp::depends(RcppParallel)]]
+#endif
+
+// [[Rcpp::plugins(cpp11)]]

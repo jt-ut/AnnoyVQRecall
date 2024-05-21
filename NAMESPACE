@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)
+importFrom(RcppParallel, RcppParallelLibs) #
+useDynLib(AnnoyVQRecall, .registration = TRUE)
+import(Matrix)
+
